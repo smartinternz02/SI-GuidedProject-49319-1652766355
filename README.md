@@ -3,6 +3,7 @@
 
 step1: 
 before implementing, extract the rainfall zip file in this location:-
+
 i) Rainfall_predict->flask->
 
 ii) Rainfall_predict->IBM->flask->
